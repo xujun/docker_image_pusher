@@ -1,4 +1,4 @@
-fluent/fluentd
+docker.io/fluent/fluentd-kubernetes-daemonset:v1.16-debian-elasticsearch7-1
 #支持私库
 #registry.k8s.io/sig-storage/nfs-subdir-external-provisioner:v4.0.2
 #xhofe/alist:latest
