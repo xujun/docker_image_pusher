@@ -1,4 +1,4 @@
-jenkins/jnlp-agent-node:latest
+docker.io/library/jenkins.agent:v2
 #支持私库
 #registry.k8s.io/sig-storage/nfs-subdir-external-provisioner:v4.0.2
 #xhofe/alist:latest
